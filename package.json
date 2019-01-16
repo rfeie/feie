@@ -1,5 +1,5 @@
 {
-  "name": "freie",
+  "name": "rfeie",
   "version": "1.0.0",
   "description": "npm card based on Tierney Cyren's (https://github.com/bnb/bitandbang/blob/master/package.json)",
   "main": "/bin/card.js",
